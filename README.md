@@ -1,0 +1,1 @@
+This note application using vanilla javascript is intended to be use for eLearning platform
